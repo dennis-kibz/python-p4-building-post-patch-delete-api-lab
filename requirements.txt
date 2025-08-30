@@ -1,0 +1,10 @@
+Faker
+flask
+flask-migrate
+flask-sqlalchemy
+Werkzeug
+importlib-metadata
+importlib-resources
+ipdb
+sqlalchemy-serializer
+pytest
